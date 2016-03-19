@@ -1,1 +1,2 @@
-# pr_sobota
+# Nazov:Tema bc prace
+Dátum odovzdania: čo najskor
